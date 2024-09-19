@@ -2,52 +2,52 @@ document.addEventListener('DOMContentLoaded', () => {
   //list all card options
   const cardArray = [
     {
-      name: 'fries',
-      img: 'images/fries.png'
+      name: 'const1',
+      img: "images/const1.png"
     },
     {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
+      name: 'const2',
+      img: "images/const2.png"
     },
     {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
+      name: 'const3',
+      img: "images/const3.png"
     },
     {
-      name: 'pizza',
-      img: 'images/pizza.png'
+      name: 'const4',
+      img: "images/const4.png"
     },
     {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
+      name: 'const5',
+      img: "images/const5.png"
     },
     {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
+      name: 'const6',
+      img: "images/const6.png"
     },
     {
-      name: 'fries',
-      img: 'images/fries.png'
+      name: 'const1',
+      img: "images/const1.png"
     },
     {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
+      name: 'const2',
+      img: "images/const2.png"
     },
     {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
+      name: 'const3',
+      img: "images/const3.png"
     },
     {
-      name: 'pizza',
-      img: 'images/pizza.png'
+      name: 'const4',
+      img: "images/const4.png"
     },
     {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
+      name: 'const5',
+      img: "images/const5.png"
     },
     {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
+      name: 'const6',
+      img: "images/const6.png"
     }
   ]
 

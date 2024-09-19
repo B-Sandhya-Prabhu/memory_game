@@ -1,6 +1,22 @@
+/* Parent container to center the grid */
+body, html {
+  height: 100%; /* Ensure body and HTML take full height */
+  display: flex;
+  justify-content: center; /* Horizontally center the grid */
+  align-items: center; /* Vertically center the grid */
+  margin: 0;
+  background-color: #f0f0f0; /* Optional: background color for contrast */
+}
+
 .grid {
   display: flex;
   flex-wrap: wrap;
-  width: 400px;
-  height: 300px;
+  justify-content: space-between; /* Optional: spacing between items */
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  background-color: #e0f7fa; /* Light blue shade */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow for depth */
+  padding: 15px;
 }
